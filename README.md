@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://souryajammula.github.io/souryaportfoliogithub.io/" target="_blank" rel="noreferrer">
-    <img src="" alt="my banner">
+    <img src="https://github.com/souryajammula/souryajammula/blob/main/banner_JSP.png?raw=true" alt="my banner">
   </a>
 </p>
 
@@ -52,12 +52,12 @@ I'm a Full-Stack Web Developer 💻, Software Engineer 🧑‍💻, and a Soccer
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-RSpringBoot-informational?style=flat&logo=SpringBoots&color=CC0000)
+![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring-Boots&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&color=336791)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=CC0000)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Java&color=7952B3)
+![](https://img.shields.io/badge/Style-Java-informational?style=flat&logo=Java&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
 ![](https://img.shields.io/badge/Code-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=7952B3)
